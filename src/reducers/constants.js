@@ -1,0 +1,6 @@
+export const FIRST_ACTION_1 = "FIRST_ACTION_1";
+export const FIRST_ACTION_2 = "FIRST_ACTION_2";
+
+export const FETCH_ITEMS = "FETCH_ITEMS";
+export const FETCH_ITEMS_SUUCESS = "FETCH_ITEMS_SUUCESS";
+export const FETCH_ITEMS_ERROR = "FETCH_ITEMS_ERROR";
